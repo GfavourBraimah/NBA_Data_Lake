@@ -30,7 +30,7 @@ This project sets up a data lake for NBA sports analytics using AWS services. It
 nano setup_nba_data_lake.py
 ```
 
-1. In another window, go to [GitHub](https://github.com/alahl1/NBADataLake)
+1. In another window, go to [GitHub](https://github.com/GfavourBraimah/NBA_Data_Lake)
 
 -Copy the contents inside the setup_nba_data_lake.py file
 
@@ -138,7 +138,7 @@ python3 delete_aws_resources.py
 ```
 
 
-### **What We Learned**
+### **What I Learned**
 1. Securing AWS services with least privilege IAM policies:
 I learned how to create and apply IAM policies that grant only the necessary permissions to AWS services and users. This practice enhances the security of my cloud infrastructure by minimizing the potential impact of compromised credentials and ensuring that each service and user has only the access they need.
 
